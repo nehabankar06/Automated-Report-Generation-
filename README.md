@@ -20,7 +20,7 @@ After the content is generated, the PDF file is saved with the filename sales_re
 
 #OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/c024a39b-ce87-4af1-8306-e1bb9d4ddf57)
 
 
 
